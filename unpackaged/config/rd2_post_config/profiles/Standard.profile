@@ -161,4 +161,8 @@
         <enabled>true</enabled>
         <name>ViewAllData</name>
     </userPermissions>
+<userPermissions>
+        <enabled>true</enabled>
+        <name>ModifyAllData</name>
+    </userPermissions>
 </Profile>
