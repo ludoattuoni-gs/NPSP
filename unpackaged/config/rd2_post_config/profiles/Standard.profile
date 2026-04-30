@@ -157,8 +157,4 @@
         <field>npe03__Recurring_Donation__c.npe03__Total__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewAllData</name>
-    </userPermissions>
 </Profile>
