@@ -163,6 +163,6 @@
     </userPermissions>
 <userPermissions>
         <enabled>true</enabled>
-        <name>ModifyAllData</name>
+        <name>ViewAllRecords</name>
     </userPermissions>
 </Profile>
