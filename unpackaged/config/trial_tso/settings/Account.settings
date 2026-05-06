@@ -6,3 +6,6 @@
     <enableRelateContactToMultipleAccounts>false</enableRelateContactToMultipleAccounts>
     <showViewHierarchyLink>true</showViewHierarchyLink>
 </AccountSettings>
+<SiteSettings>
+    <enableExperienceFriendlyUrls>true</enableExperienceFriendlyUrls>
+</SiteSettings>
