@@ -743,4 +743,7 @@
         <tab>%%%NAMESPACE%%%Batch_Gift_Entry</tab>
         <visibility>Visible</visibility>
     </tabSettings>
-</PermissionSet>
+<userPermissions>
+        <enabled>true</enabled>
+        <name>ViewAllData</name>
+    </userPermissions></PermissionSet>
